@@ -63,7 +63,7 @@ def get_credentials():
     return credentials
 
 def main():
-    pass
+     get_credentials()
 
 if __name__ == '__main__':
     main()
